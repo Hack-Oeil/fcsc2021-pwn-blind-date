@@ -1,0 +1,12 @@
+version: '3.9'
+services:
+  ssh.cyrhades.fr:
+    build: ssh
+  webssh.cyrhades.fr:
+    build: webssh
+    ports:
+    - ${PORT}:8888
+  blind-date.cyrhades.fr:
+    image: anssi/fcsc2021-pwn-blind-date:latest
+    ports:
+      - ${PORT_SSH}:4000
