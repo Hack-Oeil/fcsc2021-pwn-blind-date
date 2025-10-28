@@ -3,7 +3,7 @@
 Une société souhaite créer un service en ligne protégeant les informations de ses clients. Pouvez-vous leur montrer qu’elle n’est pas sûre en lisant le fichier <code>flag.txt</code> sur leur serveur ? Les gérants de cette société n’ont pas souhaité vous donner ni le code source de leur solution, ni le binaire compilé, mais ils vous proposent uniquement un accès distant à leur service.
 
 
-Auteur : [Cryptanalyse](https://twitter.com/Cryptanalyse)
+Auteur : [Cryptanalyse](https://x.com/Cryptanalyse)
 
 Origine : [Blind Date](https://hackropole.fr/fr/challenges/pwn/fcsc2021-pwn-blind-date/)
 
